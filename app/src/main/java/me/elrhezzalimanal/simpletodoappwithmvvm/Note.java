@@ -12,7 +12,7 @@ public class Note {
 
     private String title;
 
-    private String Description;
+    private String description;
 
     private int priority;
 
@@ -20,7 +20,7 @@ public class Note {
 
     public Note(String title, String description, int priority) {
         this.title = title;
-        Description = description;
+        description = description;
         this.priority = priority;
     }
 
@@ -41,7 +41,7 @@ public class Note {
     }
 
     public String getDescription() {
-        return Description;
+        return description;
     }
 
     public int getPriority() {
