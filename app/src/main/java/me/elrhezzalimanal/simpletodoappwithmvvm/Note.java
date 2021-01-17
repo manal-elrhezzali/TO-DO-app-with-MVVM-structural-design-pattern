@@ -20,7 +20,7 @@ public class Note {
 
     public Note(String title, String description, int priority) {
         this.title = title;
-        description = description;
+        this.description = description;
         this.priority = priority;
     }
 

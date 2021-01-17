@@ -38,10 +38,6 @@
             android:layout_below="@+id/text_view_title"
             android:text="descrdescrdescrdescrdescrp"
            />
-
-
-
-
     </RelativeLayout>
 
 
